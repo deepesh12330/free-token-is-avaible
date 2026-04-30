@@ -10,3 +10,37 @@ git switch dev
 git remote remove origin
 git push origin master
 git push origin dev
+
+
+
+
+git status
+   2 git status
+   3 pyton testing.py
+   4 python testing.py
+   5 pytthon testing.py
+   6 python testing.py
+   7 cat git-commands.txt
+   8 git status
+   9 git status
+  10 git status
+  11 git init
+  12 git status
+  13 git status
+  14 git add git-commands.txt
+  15 git status
+  16 git add .
+  17 git commit -m "added new file"
+  18 git status
+  19 git remote add origin https://github.com/deepesh12330/free-token-is-avaible.git
+  20 git sstatus
+  21 git status
+  22 git remote -v
+  23 git remote set-url origin https://deepesh12330/free-token-is-avaible.git
+  24 git status
+  25 git push origin master
+  26 git status
+  27 git add git-commands.txt
+  28 git commit -m "added new file"
+  29 git status
+  30 git push origin master
