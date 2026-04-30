@@ -3,3 +3,10 @@ git status
 git add .
 git commit -m ""
 git status
+
+git branch
+git branch dev
+git switch dev
+git remote remove origin
+git push origin master
+git push origin dev
